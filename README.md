@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo JavaScript ES6
 - 😄 Pronomes: ele/dele
 
-<div>
+<div style="display:flex">
   <a href="https://github.com/ojpbraga/github-readme-stats">
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ojpbraga&theme=gotham&show_icons=true" />
   </a>
