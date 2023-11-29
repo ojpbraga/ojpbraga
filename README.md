@@ -6,10 +6,10 @@
 
 <div style="display:flex">
   <a href="https://github.com/ojpbraga/github-readme-stats">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ojpbraga&theme=gotham&show_icons=true" />
+    <img align="center" height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=ojpbraga&theme=gotham&show_icons=true" />
   </a>
   <a href="https://github.com/ojpbraga/github-readme-stats">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbraga&theme=gotham&layout=compact" />
+    <img align="center" height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojpbraga&theme=gotham&layout=compact" />
   </a>
 </div>
 
