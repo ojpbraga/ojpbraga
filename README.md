@@ -1,6 +1,5 @@
 ### Ei! Sou o João! :)
 
-😁 Oi, pessoal! Sou o João Pedro, apenas um jovem de 19 anos que simplesmente ama o mundo da tecnologia e o desenvolvimento web. Minha verdadeira vibe é criar experiências visuais e poder codá-las. Eu curto demais desenhar, escolher cores e montar layouts que dão vida a sites. Ver meu código se transformar em algo real é uma sensação incrível.
 
 </br>
 
